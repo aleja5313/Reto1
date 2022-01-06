@@ -1,0 +1,55 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{ 
+background-color: rgb(216, 204, 200);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: var(--color-letra);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+:root{
+    --color-letra: #1d1d94fd;
+
+}
+
+#de{
+    background-color: rgba(250, 114, 220, 0.342);
+    width: 10%;
+    border: slateblue 100%;
+
+}
+
+#a{
+    background-color: rgba(250, 114, 220, 0.342);
+    width: 10%;
+    border: slateblue 100%;
+    
+}
+#cantidad{
+    background-color: rgba(250, 114, 220, 0.342);
+    width: 30%;
+    border: slateblue 100%;
+
+    
+}
+main{
+    text-align: center;
+}
+
+img{
+    margin-top: 5%;
+    border-radius: 20%;
+}
+
+h1{
+    margin-top: 5%;
+}
+
